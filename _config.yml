@@ -34,12 +34,12 @@ title: PLaTon
 subtitle: PLateforme for Learning and Teaching online
 description: PLaTon est une plateforme moderne d'exercices en ligne multi-matières auto corrigés.
 author: The PLaTon contributor team
-email: None
-avatar: None
+# email: None
+# avatar: None
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "PLaTon" # the subpath of your site, e.g. /blog
-url: "https://premierlangage.github.io/" # the base hostname & protocol for your site
+url: "https://premierlangage.github.io" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
