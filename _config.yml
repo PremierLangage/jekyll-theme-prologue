@@ -34,8 +34,8 @@ title: PLaTon
 subtitle: PLateforme for Learning and Teaching online
 description: PLaTon est une plateforme moderne d'exercices en ligne multi-matières auto corrigés.
 author: The PLaTon contributor team
-email: 
-avatar: 
+email: None
+avatar: None
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/PLaTon" # the subpath of your site, e.g. /blog
@@ -55,7 +55,7 @@ slack_url:
 dribbble_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-149458831-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 remote_theme: chrisbobbe/jekyll-theme-prologue
