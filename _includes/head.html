@@ -4,6 +4,7 @@
   {%- endif -%}
   
   <!-- Robots -->
+  <meta name="msvalidate.01" content="18BB186D947F4E8C9BD2535F8A483EC7" />
   <meta name="robots" content="{{- page.robots | default: 'index, follow' -}}" />
   {%- unless page.canonical == false -%}<link rel="canonical" href="{{- page.url | absolute_url -}}" />{%- endunless -%}
   
