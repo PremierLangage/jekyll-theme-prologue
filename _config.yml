@@ -35,7 +35,7 @@ subtitle: PLateforme for Learning and Teaching online
 description: PLaTon est une plateforme moderne d'exercices en ligne multi-matières auto corrigés.
 author: The PLaTon contributor team
 # email: None
-# avatar: None
+avatar: assets/images/logoRS-UGE.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "PLaTon" # the subpath of your site, e.g. /blog
