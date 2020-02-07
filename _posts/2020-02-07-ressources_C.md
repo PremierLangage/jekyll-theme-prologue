@@ -30,7 +30,7 @@ difficiles.
 
 ## Premier programme, notion de programme C
 
-* [Premier programme C](https://pl.u-pem.fr/filebrowser/demo/11075/), ça commence par un "hello world".
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11075/" target="blank">Premier programme C</a>, ça commence par un "hello world".
 
 
 ## Les variables en C
