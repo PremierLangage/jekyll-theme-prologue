@@ -28,29 +28,45 @@ exercices sont triviaux, les derniers exercices sont relativement
 difficiles.
 
 
-## Premier programme, notion de programme C
+### Premier programme, notion de programme C
 
-* <a href="https://pl.u-pem.fr/filebrowser/demo/11075/" target="blank">Premier programme C</a>, ça commence par un "hello world".
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11075/" target="blank">Premier programme C</a>, ça commence par un "Hello World".
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11078/" target="blank">Ordonner quelques appels</a> de fonctions dans un **main**.
+* Les <a href="https://pl.u-pem.fr/filebrowser/demo/11079/" target="blank">étapes de compilation</a> durant un appel à **gcc**.
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11080/" target="blank">Assembler deux fonctions</a> pour en fabriquer une troisième.
+* Les <a href="https://pl.u-pem.fr/filebrowser/demo/11081/" target="blank">caractéristiques du langage C</a>.
+* Écrire un <a href="https://pl.u-pem.fr/filebrowser/demo/11082/" target="blank">programme qui affiche ses arguments</a>.
 
 
-## Les variables en C
+### Les variables en C
 
-## Les types de base
+* Les <a href="https://pl.u-pem.fr/filebrowser/demo/11083/" target="blank">caractéristiques des variables</a> en langage C.
+* Identifier les <a href="https://pl.u-pem.fr/filebrowser/demo/11084/" target="blank">identificateurs légaux</a> pour des variables en C.
+* Identifier des <a href="https://pl.u-pem.fr/filebrowser/demo/11085/" target="blank">right values</a> (valeur stockable) en C.
+* Identifier des <a href="https://pl.u-pem.fr/filebrowser/demo/11086/" target="blank">left values</a> (conteneur affectable) en C.
+* Ordonner quelques <a href="https://pl.u-pem.fr/filebrowser/demo/11087/" target="blank">taille mémoire de variables</a>.
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11088/" target="blank">Associer variable et objet modélisé</a>.
 
-## Écrire des fonction en C
 
-## Notion de tableaux
+### Les types de base
 
-## Chaînes de caractères
+* Lecture de quelques <a href="https://pl.u-pem.fr/filebrowser/demo/11089/" target="blank">types de base</a>.
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11090/" target="blank">Ordonner les tailles mémoires</a> des types entiers basiques.
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11091/" target="blank">Corriger une erreur de type 1</a>.
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11092/" target="blank">Corriger une erreur de type 2</a>.
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11093/" target="blank">Corriger une erreur de type 3</a>.
+* <a href="https://pl.u-pem.fr/filebrowser/demo/11094/" target="blank">Articulation entiers caractères</a> pour les valeurs ASCII en C.
 
-## Définir et utiliser des structures
 
-## Les macros et directives préprocesseur
+### Écrire des fonction en C
 
-## Notions d'entrées/sorties
-
-## Récursivité en C
-
-## Allocation dynamique
-
-## Les opérateurs bit à bit
+* Écrire une fonction <a href="https://pl.u-pem.fr/filebrowser/demo/11095/" target="blank">mettant au cube</a> un entier passé par adresse.
+* Écrire une fonction calculant <a href="https://pl.u-pem.fr/filebrowser/demo/11096/" target="blank">un polynôme</a> aléatoire (tirage dans une liste finie hardcodée).
+* Rechercher la <a href="https://pl.u-pem.fr/filebrowser/demo/11097/" target="blank">première voyelle</a> dans une chaîne de caractère.
+* Écrire une fonction qui opère un <a href="https://pl.u-pem.fr/filebrowser/demo/11098/" target="blank">incrément</a> (en argument) sur une variable entière passée par adresse.
+* Écrire une fonction qui dessine un <a href="https://pl.u-pem.fr/filebrowser/demo/11099/" target="blank">triangle en ASCII art</a> à partir d'une taille donné.
+* Écrire une fonction qui retourne le <a href="https://pl.u-pem.fr/filebrowser/demo/11100/" target="blank">maximum de trois entiers</a>.
+* Écrire une fonction qui retourne le <a href="https://pl.u-pem.fr/filebrowser/demo/11101/" target="blank">minimum de trois entiers</a>.
+* Écrire une fonction qui retourne la <a href="https://pl.u-pem.fr/filebrowser/demo/11102/" target="blank">moyenne de trois entiers</a>.
+* Associer <a href="https://pl.u-pem.fr/filebrowser/demo/11103/" target="blank">prototypes et fonctionnalités</a> sur quelques exemples.
+* Écrire une fonction qui calcule des <a href="https://pl.u-pem.fr/filebrowser/demo/11104/" target="blank">puissances entières</a>.
