@@ -38,7 +38,7 @@ author: The PLaTon contributor team
 avatar: assets/images/logoRS-UGE.png
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "PLaTon" # the subpath of your site, e.g. /blog
+baseurl: "PLaTon-web" # the subpath of your site, e.g. /blog
 url: "https://premierlangage.github.io" # the base hostname & protocol for your site
 
 # Social settings
