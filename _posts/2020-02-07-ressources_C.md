@@ -171,7 +171,7 @@ Nicolas Borie.
 
 * Coder une fonction comptant le <a href="https://pl.u-pem.fr/filebrowser/demo/11174/" target="blank">nombre de bits à 1</a> dans une zone mémoire.
 * Coder une fonction faisant un <a href="https://pl.u-pem.fr/filebrowser/demo/11175/" target="blank">miroir binaire</a> dans un octet.
-* Coder une fonction déterminant la taille du <a href="" target="blank">paquet de bits à 1</a> de poids faible dans un octet.
+* Coder une fonction déterminant la taille du <a href="https://pl.u-pem.fr/filebrowser/demo/15483/" target="blank">paquet de bits à 1</a> de poids faible dans un octet.
 * Écrire une fonction comptant le <a href="https://pl.u-pem.fr/filebrowser/demo/11178/" target="blank">nombre d'alternances de bits</a> dans un entier long positif.
 * Écrire une fonction qui <a href="https://pl.u-pem.fr/filebrowser/demo/11179/" target="blank">détecte le motif 1101</a> dans la donnée binaire d'un entier long positif.
 * Écrire une fonction qui détermine la <a href="https://pl.u-pem.fr/filebrowser/demo/11180/" target="blank">taille du plus grand paquet de bits</a> consécutifs de même valeur dans une zone mémoire.
