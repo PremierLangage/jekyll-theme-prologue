@@ -50,7 +50,7 @@ un simple clic qui démarrera toute une moulinette d'éxécution de tests.
 ## Une grosse moulinette disponible en un clic
 
 Un exemple valant mieux qu'un long discours, voici ici un 
-[exercice en démonstration](https://pl.u-pem.fr/filebrowser/demo/20215/) dans lequel il faut proposer des tests 
+[exercice en démonstration](https://pl.u-pem.fr/filebrowser/demo/20216/) dans lequel il faut proposer des tests 
 pour une fonction qui fait la recherche d'un max dans une sous partie d'une liste : les éléments positifs.
 
 Vous pouvez proposer des tests, ces derniers seront automatiquement lancés sur tous les codes des deux 
