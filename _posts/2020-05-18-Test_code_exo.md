@@ -193,5 +193,5 @@ une coloration qui tire vers l'argumentation et la certification. Ainsi, en troi
 Et bien cela doit faire écho aux tests unitaires bien élaborés... Garantir la conformité d'une solution informatique 
 complète est surrement une compétence qui peut avoir un sens au niveau BAC+5. Mais on apprend pas à garantir du 
 jour au lendemain. En apprenant à faire des tests discrimants en autonomie en BAC+2, les élèves travaillent 
-leur capacité à rassembler des arguments qui constitueront des véritables validations qui seront anemés à établir 
+leur capacité à rassembler des arguments qui constitueront les véritables validations qu'ils seront anemés à établir 
 plus tard dans leur formation (que ce soit en allant vers un master informatique ou un cycle ingénieur informatique).
