@@ -31,7 +31,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PLaTon
-subtitle: "PLatform for Learning \n and Teaching online"
+subtitle: "PLatform for Learning
+
+and Teaching online"
 description: PLaTon est une plateforme moderne d'exercices en ligne multi-matières auto corrigés.
 author: The PLaTon contributor team
 # email: None
