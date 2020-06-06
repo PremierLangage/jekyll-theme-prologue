@@ -58,7 +58,7 @@ collections proposées par l'enseignant éditeur: good_code_X et bad_code_Y. Pou
 source complet de l'exercice. Le template *doctest_me_bro_template.pl* utilise par contre subprocess en 
 casade sur toutes les clés de l'exercice ayant des préfixes identifiés.
 
-<pre>
+<pre style="font-size: 0.6em;">
 #*****************************************************************************
 #  Copyright (C) 2020 Nicolas Borie <nicolas dot borie at univ-eiffel . fr>
 #
