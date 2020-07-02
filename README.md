@@ -2,6 +2,8 @@
 
 Le site web est généré et hebergé par github. Ce dernier utilise la technologie Jekyll un thème produit par Chris Bobbe(liens en dessous).
 
+Suivez ce lien https://premierlangage.github.io/PLaTon-web/
+
 Le site est pour le moment écrit en francais. C'est un portail, pour la france, vers la plateforme PLaTon. 
 
 # Prologue - Jekyll Theme
