@@ -4,7 +4,7 @@ author: Nicolas Borie
 layout: post
 ---
 
-# L'édition de ressources pédagogiques sous PLaTon
+# L'édition des ressources pédagogiques sous PLaTon
 
 Un bilan du serveur central de ressources à partir des commits git extraits jusqu'au 11 Mai 2020...
 
@@ -22,7 +22,7 @@ La plateforme PLaTon rassemble aujourd'hui 22 dépôts git sur sa page
 [github de PLaTon](https://github.com/PremierLangage). Parmi tous ces
 dépôts, il y a [Yggdrasil : dépôt git centralisant les
 ressources](https://github.com/PremierLangage/Yggdrasil). Les données
-qui vont suivre sont construites à partir des logs de tous les commits
+qui vont suivrent sont construites à partir des logs de tous les commits
 de ce dépôt.
 
 
@@ -31,8 +31,8 @@ de ce dépôt.
 
 L'informatique et les mathématiques sont les deux disciplines
 largement représentées. En effet, les outils numériques étant plus
-courants dans ces matières, les acteurs enseignants sont plus à l'aise
-pour prendre en main PLaTon. 
+courants dans ces matières, les acteurs enseignants de ces disciplines 
+sont plus à l'aise pour prendre en main PLaTon. 
 
 
 ![Répartition des éditeurs selon leur discipline]({{ site.url }}/PLaTon-web/assets/images/disciplines.png)
@@ -82,7 +82,7 @@ Actuellement, on peut classer les personnes éditant les ressources en trois gro
 
 
 Sachant que PLaTon n'est toujours pas dans sa version 1.0, l'année
-scolaire 2019-2020 est riche d'expérience et devrait mettre la
+scolaire 2019-2020 est riche d'expériences et devrait mettre la
 plateforme sur de bon rails pour son réel lancement.
 
 
@@ -99,7 +99,7 @@ statistiques au dessus et ils ne sont pas comptés dans les données
 présentées plus haut.
 
 
-Les ressources représentent actuellement 1943 fichiers dont 1324
+Les ressources pédagogiques actuelles constituent 1943 fichiers dont 1324
 fichiers d'extension pl désignant le plus souvent des exercices
 PLaTon. Parmi les choses remarquables, on peut faire les observations
 suivantes :
@@ -107,7 +107,7 @@ suivantes :
 * Bien que PLaTon soit très jeune, la répartition des utilisateurs
   selon leur expérience est tout à fait naturelle et normale. On a
   actuellement 3-4 experts, une dizaine d'adeptes et le reste de
-  novices (On divise pas deux environ d'un niveau à un autre).
+  novices (On divise/multiplie par deux environ d'un niveau à un autre).
   
 * Toutes les contributions sont bonnes à prendre et tous les éditeurs
   jouent un rôle important quelques soient leurs expériences et
@@ -131,8 +131,8 @@ suivantes :
   meilleure ergonomie ou des fonctionnalités enrichies.
 
 * La plupart des ressources profitent automatiquement des évolutions
-  de la plateforme. Le coeur du serveur très technique (Django,
-  Docker, Angular, etc) est complètement détaché des ressources
+  de la plateforme. Le coeur du serveur, très technique (Django,
+  Docker, Angular, etc), est complètement détaché des ressources
   pédagogiques (le fameux dépôt Yggdrasil indépendant). Les ressources
   pédagogiques utilisent de manière formelle les fonctionnalités du
   serveur PLaTon. Moteur et ressources étant ainsi très faiblement
@@ -140,3 +140,5 @@ suivantes :
   une excellente capitalisation pour les années prochaines et en
   particulier la rentrée à venir avec les conditions imposées par la
   crise sanitaire.
+
+Keep going !
