@@ -35,7 +35,7 @@ courants dans ces matières, les acteurs enseignants sont plus à l'aise
 pour prendre en main PLaTon. 
 
 
-![Répartition des éditeurs selon leur discipline]({{ site.url }}/PLaTon-web/assets/images/disciplines.png){width=50%}
+![Répartition des éditeurs selon leur discipline]({{ site.url }}/PLaTon-web/assets/images/disciplines.png)
 
 
 ### Les fonctions exercées par les éditeurs de ressources
@@ -48,7 +48,7 @@ mais aussi des agents temporaires d'enseignement et de recherche, des
 vacataires, des élèves stagiaires et des apprentis.
 
 
-![Répartition des éditeurs selon leur fonction]({{ site.url }}/PLaTon-web/assets/images/fonction.png){width=50%}
+![Répartition des éditeurs selon leur fonction]({{ site.url }}/PLaTon-web/assets/images/fonction.png)
 
 
 ### Activités des éditeurs de ressources
