@@ -6,7 +6,7 @@ layout: post
 
 # L'édition de ressources pédagogiques sous PLaTon
 
-Un bilan du serveur central de ressources au 11 Mai 2020...
+Un bilan du serveur central de ressources à partir des commits git extraits jusqu'au 11 Mai 2020...
 
 
 Voici un résumé rapide de l'édition partagée des ressources pédagogiques
