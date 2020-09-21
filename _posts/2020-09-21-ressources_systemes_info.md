@@ -1,10 +1,10 @@
 ---
-title: Utilisation de PLaTon sur l'année universitaire 2019-2020
+title: Ressources en Systèmes informatiques
 author: Nicolas Borie
 layout: post
 ---
 
-# Ressources autour d'un cours d'informatique en L2
+# Ressources autour d'un cours de système en L2 informatique
 
 Toujours dans le but de présenter un évantail d'exercices réalisables 
 sous la plateforme PLaTon, voici un ensemble de ressources produites 
