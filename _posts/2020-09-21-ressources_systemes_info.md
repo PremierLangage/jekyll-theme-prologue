@@ -1,5 +1,5 @@
 ---
-title: Ressources en Système informatique
+title: Exos système Unix
 author: Nicolas Borie
 layout: post
 ---
