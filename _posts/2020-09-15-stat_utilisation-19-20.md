@@ -1,5 +1,5 @@
 ---
-title: Utilisation de PLaTon sur l'année universitaire 2019-2020
+title: Bilan PLaTon 2019-2020
 author: Nicolas Borie
 layout: post
 ---
