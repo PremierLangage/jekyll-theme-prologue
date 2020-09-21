@@ -1,10 +1,11 @@
 ---
-title: Ressources en Systèmes informatiques
+title: Ressources en Système informatique
 author: Nicolas Borie
 layout: post
 ---
 
 # Ressources autour d'un cours de système en L2 informatique
+
 
 Toujours dans le but de présenter un évantail d'exercices réalisables 
 sous la plateforme PLaTon, voici un ensemble de ressources produites 
@@ -12,13 +13,13 @@ dans l'urgence du confinement du second semestre de l'année
 universitaire 2019-2020.
 
 Les ressources qui vont suivre ont été créées pour un cours intitulé 
-"architecture des systèmes informatiques" donnée en L2 parcours 
+**architecture des systèmes informatiques** donné en L2 parcours 
 informatique. Cette matière introduit un cours de programmation système
 donné en L3 informatique. Il s'agit donc de présenter les mécanismes
 des systèmes d'exploitation ainsi que de les utiliser mais pas de les 
 programmer.
 
-Systématiquement, chacun des templates suivants ont été déclinés en 
+Systématiquement, chacun des templates qui suivent a été déclinés en 
 une demi-douzaine d'exercices. Ainsi, avec 5 QCMs, une vingtaine 
 d'exercices sur les commandes bash, une dizaine de circuits logiques 
 de taille différente, 6 fonctions à tester pour certifier le bon 
@@ -28,7 +29,7 @@ toutes les technos avec un simple navigateur web.
 Effectivement, un des problèmes des élèves durant le confinement est 
 que tout le monde ne possède pas un ordinateur à la maison avec un 
 système Unix d'installé. De ce fait, certains élèves avaient du mal à 
-pouvoir réaliser les exercices des TP de systèmes chez eux. 
+pouvoir réaliser les exercices des TP de système chez eux. 
 Sous PLaTon, les sandbox tournent sur une distribution Debian de Linux. 
 Ainsi, la plupart de ces exercices fonctionnent sur tout support 
 numérique quelques soit les systèmes d'exploitation (PC windows, 
@@ -60,6 +61,12 @@ Il a fallu ainsi seulement produire des questions sous le format suivant :
 - Ça permet de mieux enregistrer et restituer les sons.
 - Les images s'encodent naturellement en binaire.
 ```
+
+L'exemple vous rend expert, il suffit de partager deux ou trois exemples de 
+questions au format AMC-txt avec son équipe pédagogique pour que chacun 
+puisse remonter à l'enseignant responable du cours une petite dizaine 
+de questions.
+
 
 ## Des exercices pour des commandes bash
 
@@ -94,8 +101,8 @@ Requête évoluée dans un fichier structuré</a>
 
 Sur ce patron d'exercice, on attend carrément un petit 
 programme bash. Une fois validé, le code de l'élève va 
-passer une séries de tests. Le script est alors correct 
-s'il passe tout les tests automatiques...
+passer une série de tests. Le script est alors correct 
+s'il passe tous les tests automatiques...
 
 <a href="https://pl.u-pem.fr/filebrowser/demo/25612/" target="_blank">
 Un script bash qui affiche ses arguments</a>
@@ -105,7 +112,7 @@ Un script bash qui affiche ses arguments</a>
 
 ## Circuits logiques aléatoires
 
-Ça commence avec des évaluation de la sortie de circuits 
+Ça commence avec des évaluations de la sortie de circuits 
 logiques aléatoires. Ici, c'est le builder qui contient 
 beaucoup d'algorithmique avancé car l'exercice commence 
 par construire un arbre aléatoire dont les noeuds sont 
@@ -149,8 +156,8 @@ Une fonction Python pour un tableau de Karnaugh</a>
 C'est un template pour apprendre à tester du code. L'enseignant 
 fourni deux paquets de réponses. Un paquets de bonnes réponses 
 et un paquet de mauvaises réponses. L'objectif de l'élève est 
-de concevoir l'aveugle une série de test discriminantes. Il 
-faut les bons codes valident positivement tous les tests et 
+de concevoir à l'aveugle une série de tests discriminants. Il 
+faut que les bons codes valident positivement tous les tests et 
 il faut que, systématiquement, chaque mauvais code échoue sur 
 un test au minimum.
 
@@ -175,8 +182,8 @@ unité arithmétique en nombre entier.
 Il s'agit clairement d'un jeu avec un minimum de règles dans 
 lequel on peut programmer des fonctionnalités parfois évoluées 
 (par exemple un test de primalité). Il s'agit d'un clone du 
-[little thinker]() (aussi originaire de Marne-La-Vallée) mais 
-adapté pour PLaTon.
+[little thinker](http://sylvain.cherrier.free.fr/LT.html) 
+(projet aussi originaire de Marne-La-Vallée) mais adapté pour PLaTon.
 
 
 <a href="https://pl.u-pem.fr/filebrowser/demo/25618/" target="_blank">
