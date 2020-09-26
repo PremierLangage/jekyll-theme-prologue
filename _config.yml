@@ -37,7 +37,7 @@ and Teaching online"
 description: PLaTon est une plateforme moderne d'exercices en ligne multi-matières auto corrigés.
 author: The PLaTon contributor team
 # email: None
-avatar: "assets/images/Logo_PLaTon.svg"
+avatar: "assets/images/logo_color.svg"
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "PLaTon-web" # the subpath of your site, e.g. /blog
