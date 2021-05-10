@@ -8,7 +8,7 @@ order: 3
 
 PLaTon est une application complexe. Comme elle se veut ouverte au partage, idéalement PLaTon
 est documenté à tous les niveaux. Suivant le rôle que vous souhaitez jouer, vous devriez trouver une documentation adapté à
-vos intentions. <a href="https://documentationpl.readthedocs.io/fr/latest/contribuer/" target="blank">Voici ici quelques 
+vos intentions. <a href="https://documentationpl.readthedocs.io/fr/latest/presentation/contribuer/" target="blank">Voici ici quelques 
 conseils pour contribuer.</a>
 
 
